@@ -1,0 +1,132 @@
+
+
+.bx-wrapper {
+	position: relative;
+	margin: 10px auto 50px auto;
+	padding: 0;
+	*zoom: 1;
+}
+
+.bx-wrapper img {
+	max-width: 100%;
+	display: block;
+}
+
+
+.bx-wrapper .bx-viewport {
+	border:0;
+	/*fix other elements on the page moving (on Chrome)*/
+	-webkit-transform: translatez(0);
+	-moz-transform: translatez(0);
+   	-ms-transform: translatez(0);
+   	-o-transform: translatez(0);
+   	transform: translatez(0);
+}
+
+.bx-wrapper .bx-pager,
+.bx-wrapper .bx-controls-auto {
+	position: absolute;
+	bottom: -30px;
+	width: 100%;
+}
+
+/* LOADER */
+
+.bx-wrapper .bx-loading {
+	min-height: 50px;
+	background: url(images/bx_loader.gif) center center no-repeat #fff;
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 2000;
+}
+
+/* PAGER */
+
+.bx-wrapper .bx-pager {
+	text-align: center;
+	font-size: .85em;
+	font-family: Arial;
+	font-weight: bold;
+	color: #666;
+	padding-top: 20px;
+}
+
+.bx-wrapper .bx-pager .bx-pager-item,
+.bx-wrapper .bx-controls-auto .bx-controls-auto-item {
+	display: inline-block;
+	*zoom: 1;
+	*display: inline;
+}
+
+.bx-wrapper .bx-pager.bx-default-pager a {
+	background: #666;
+	text-indent: -9999px;
+	display: block;
+	width: 10px;
+	height: 10px;
+	margin: 0 5px;
+	outline: 0;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+
+.bx-wrapper .bx-pager.bx-default-pager a:hover,
+.bx-wrapper .bx-pager.bx-default-pager a.active {
+	background: #000;
+}
+
+/* DIRECTION CONTROLS (NEXT / PREV) */
+
+.bx-wrapper .bx-prev {
+	left: 0px;
+	background-image:url(../images/index/arrow_left_black.png);
+	background-repeat:no-repeat;
+	background-position:center;
+	background-color: #808080;
+	opacity: 0.6;
+    filter: alpha(opacity=60);
+}
+
+.bx-wrapper .bx-next {
+	right: 0px;
+	background-image:url(../images/index/arrow_right_black.png);
+	background-repeat:no-repeat;
+	background-position:center;
+	background-color: #808080;
+	opacity: 0.6;
+    filter: alpha(opacity=60);
+}
+
+.bx-wrapper .bx-prev:hover {
+	background-image:url(../images/index/arrow_left.png);
+	background-repeat:no-repeat;
+	background-color: #CCCCCC;
+	opacity: 0.8;
+    filter: alpha(opacity=80);
+}
+
+.bx-wrapper .bx-next:hover {
+	background-image:url(../images/index/arrow_right.png);
+	background-repeat:no-repeat;
+	background-color: #CCCCCC;
+	opacity: 0.8;
+    filter: alpha(opacity=80);
+}
+
+.bx-wrapper .bx-controls-direction a {
+	position: absolute;
+	top: 0px;
+	outline: 0;
+	width: 32px;
+	height: 100%;
+	text-indent: -9999px;
+	z-index: 9999;
+}
+
+.bx-wrapper .bx-controls-direction a.disabled {
+	display: none;
+}

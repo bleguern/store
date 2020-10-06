@@ -1,0 +1,13 @@
+User-Agent: *
+Disallow: /bin/
+Disallow: /config/
+Disallow: /error/
+Disallow: /images/ico/
+Disallow: /images/index/
+Disallow: /img/
+Disallow: /library/
+Disallow: /log/
+Disallow: /scripts/
+Disallow: /index2.html
+
+Sitemap: http://www.larmoirenormande.fr/sitemap.xml

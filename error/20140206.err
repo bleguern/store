@@ -1,0 +1,1 @@
+20140206|07:23:44|url:/store_perso/pages/_basket_go_to_order.php|name:BasketCreateOrder|description:1064|You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(store_store_basket.store_basket_quantity * store_item_specific.item_specific_pr' at line 1

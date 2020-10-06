@@ -1,0 +1,1 @@
+20140321|09:18:34|url:/store_perso/pages/admin_order.php|name:OrderStatusDisplayList|description:1064|You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'store_store_order_status.store_order_status_active = 1 ORDER BY store_order_stat' at line 1

@@ -1,0 +1,5 @@
+AuthUserFile /homez.218/elevagedtm/www/config/.htpasswd
+AuthGroupFile /dev/null
+AuthName "Restricted access!"
+AuthType Basic
+require valid-user

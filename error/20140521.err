@@ -1,0 +1,1 @@
+20140521|11:57:44|url:/store_perso/search/index.php|name:ItemSearch|description:1064|You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FLEUR'%') OR (UPPER(store_item_type.item_type_name) LIKE '%'FLEUR'%') OR (UPPER(' at line 1

@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+		xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+		xmlns:xhtml="http://www.w3.org/1999/xhtml" 
+		xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 
+		http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+<url>
+    <loc>http://localhost/store_perso/pages/index.php</loc>
+    <lastmod>2015-01-02T09:27:34+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/pages/index.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/pages/index.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/pages/index.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/pages/index.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/css/main.css</loc>
+    <lastmod>2015-01-06T12:07:01+01:00</lastmod>
+</url>
+<url>
+    <loc>http://localhost/store_perso/pages/account_add.php</loc>
+    <lastmod>2015-01-02T09:27:34+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/pages/account_add.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/pages/account_add.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/pages/account_add.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/pages/account_add.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/pages/account_update.php</loc>
+    <lastmod>2015-01-02T09:27:34+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/pages/account_update.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/pages/account_update.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/pages/account_update.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/pages/account_update.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/pages/basket.php</loc>
+    <lastmod>2015-01-02T09:27:34+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/pages/basket.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/pages/basket.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/pages/basket.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/pages/basket.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/pages/blog.php</loc>
+    <lastmod>2015-01-06T12:30:53+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/pages/blog.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/pages/blog.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/pages/blog.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/pages/blog.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/pages/contact.php</loc>
+    <lastmod>2015-01-02T09:27:34+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/pages/contact.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/pages/contact.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/pages/contact.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/pages/contact.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/pages/error.php</loc>
+    <lastmod>2015-01-02T09:27:34+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/pages/error.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/pages/error.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/pages/error.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/pages/error.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/pages/forgot_password.php</loc>
+    <lastmod>2015-01-02T09:27:34+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/pages/forgot_password.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/pages/forgot_password.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/pages/forgot_password.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/pages/forgot_password.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/pages/index.php</loc>
+    <lastmod>2015-01-02T09:27:34+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/pages/index.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/pages/index.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/pages/index.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/pages/index.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/pages/item.php</loc>
+    <lastmod>2015-01-06T12:17:57+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/pages/item.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/pages/item.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/pages/item.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/pages/item.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/pages/item_list.php</loc>
+    <lastmod>2015-01-02T09:27:34+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/pages/item_list.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/pages/item_list.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/pages/item_list.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/pages/item_list.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/pages/links.php</loc>
+    <lastmod>2015-01-02T09:27:34+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/pages/links.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/pages/links.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/pages/links.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/pages/links.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/pages/login.php</loc>
+    <lastmod>2015-01-02T09:27:34+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/pages/login.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/pages/login.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/pages/login.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/pages/login.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/pages/logout.php</loc>
+    <lastmod>2015-01-02T09:27:34+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/pages/logout.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/pages/logout.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/pages/logout.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/pages/logout.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/pages/not_allowed.php</loc>
+    <lastmod>2015-01-02T09:27:34+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/pages/not_allowed.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/pages/not_allowed.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/pages/not_allowed.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/pages/not_allowed.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/pages/order.php</loc>
+    <lastmod>2015-01-02T09:27:34+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/pages/order.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/pages/order.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/pages/order.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/pages/order.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/pages/order_list.php</loc>
+    <lastmod>2015-01-02T09:27:34+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/pages/order_list.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/pages/order_list.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/pages/order_list.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/pages/order_list.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/pages/register.php</loc>
+    <lastmod>2015-01-02T09:27:34+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/pages/register.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/pages/register.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/pages/register.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/pages/register.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/blog/1-hahaha.php</loc>
+    <lastmod>2015-01-06T12:57:54+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/blog/1-hahaha.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/blog/1-hahaha.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/blog/1-hahaha.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/blog/1-hahaha.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/blog/2-test.php</loc>
+    <lastmod>2015-01-06T12:57:54+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/blog/2-test.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/blog/2-test.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/blog/2-test.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/blog/2-test.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/blog/3-beijing-2014---volkswagen-touareg-restyle.php</loc>
+    <lastmod>2015-01-06T12:57:54+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/blog/3-beijing-2014---volkswagen-touareg-restyle.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/blog/3-beijing-2014---volkswagen-touareg-restyle.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/blog/3-beijing-2014---volkswagen-touareg-restyle.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/blog/3-beijing-2014---volkswagen-touareg-restyle.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/blog/index.php</loc>
+    <lastmod>2015-01-02T09:27:34+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/blog/index.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/blog/index.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/blog/index.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/blog/index.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/10-leggings-raye-gris---noir.php</loc>
+    <lastmod>2015-01-06T12:57:54+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/10-leggings-raye-gris---noir.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/10-leggings-raye-gris---noir.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/10-leggings-raye-gris---noir.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/10-leggings-raye-gris---noir.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/11-t-shirt-ml-imprime-coeurs.php</loc>
+    <lastmod>2015-01-06T12:57:54+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/11-t-shirt-ml-imprime-coeurs.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/11-t-shirt-ml-imprime-coeurs.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/11-t-shirt-ml-imprime-coeurs.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/11-t-shirt-ml-imprime-coeurs.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/12-short-blanc-obaibi.php</loc>
+    <lastmod>2015-01-06T12:57:54+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/12-short-blanc-obaibi.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/12-short-blanc-obaibi.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/12-short-blanc-obaibi.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/12-short-blanc-obaibi.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/13-pyjama-velours-sucre-d-orge-rose-pale.php</loc>
+    <lastmod>2015-01-06T12:57:54+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/13-pyjama-velours-sucre-d-orge-rose-pale.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/13-pyjama-velours-sucre-d-orge-rose-pale.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/13-pyjama-velours-sucre-d-orge-rose-pale.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/13-pyjama-velours-sucre-d-orge-rose-pale.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/14-pull-velours-rose.php</loc>
+    <lastmod>2015-01-06T12:57:54+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/14-pull-velours-rose.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/14-pull-velours-rose.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/14-pull-velours-rose.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/14-pull-velours-rose.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/15-pyjama-velours-rose-peche-et-orange.php</loc>
+    <lastmod>2015-01-06T12:57:54+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/15-pyjama-velours-rose-peche-et-orange.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/15-pyjama-velours-rose-peche-et-orange.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/15-pyjama-velours-rose-peche-et-orange.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/15-pyjama-velours-rose-peche-et-orange.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/16-pyjama-velours-rose.php</loc>
+    <lastmod>2015-01-06T12:57:54+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/16-pyjama-velours-rose.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/16-pyjama-velours-rose.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/16-pyjama-velours-rose.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/16-pyjama-velours-rose.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/18-gilet-tao-gris.php</loc>
+    <lastmod>2015-01-06T12:57:54+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/18-gilet-tao-gris.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/18-gilet-tao-gris.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/18-gilet-tao-gris.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/18-gilet-tao-gris.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/19-t-shirt-ml-rose-pale-disney.php</loc>
+    <lastmod>2015-01-06T12:57:54+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/19-t-shirt-ml-rose-pale-disney.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/19-t-shirt-ml-rose-pale-disney.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/19-t-shirt-ml-rose-pale-disney.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/19-t-shirt-ml-rose-pale-disney.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/20-pantalon-bout-chou-fleuri.php</loc>
+    <lastmod>2015-01-06T12:57:54+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/20-pantalon-bout-chou-fleuri.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/20-pantalon-bout-chou-fleuri.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/20-pantalon-bout-chou-fleuri.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/20-pantalon-bout-chou-fleuri.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/21-t-shirt-ml-rose-vif-disney.php</loc>
+    <lastmod>2015-01-06T12:57:54+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/21-t-shirt-ml-rose-vif-disney.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/21-t-shirt-ml-rose-vif-disney.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/21-t-shirt-ml-rose-vif-disney.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/21-t-shirt-ml-rose-vif-disney.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/22-lot-2-sous-pull-col-roule-rose-mauve.php</loc>
+    <lastmod>2015-01-06T12:57:54+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/22-lot-2-sous-pull-col-roule-rose-mauve.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/22-lot-2-sous-pull-col-roule-rose-mauve.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/22-lot-2-sous-pull-col-roule-rose-mauve.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/22-lot-2-sous-pull-col-roule-rose-mauve.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/23-robe-tao-kaki-a-fleurs.php</loc>
+    <lastmod>2015-01-06T12:57:54+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/23-robe-tao-kaki-a-fleurs.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/23-robe-tao-kaki-a-fleurs.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/23-robe-tao-kaki-a-fleurs.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/23-robe-tao-kaki-a-fleurs.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/24-lot-2-bodys-rose---rose-a-pois.php</loc>
+    <lastmod>2015-01-06T12:57:54+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/24-lot-2-bodys-rose---rose-a-pois.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/24-lot-2-bodys-rose---rose-a-pois.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/24-lot-2-bodys-rose---rose-a-pois.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/24-lot-2-bodys-rose---rose-a-pois.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/25-toto.php</loc>
+    <lastmod>2015-01-06T12:57:54+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/25-toto.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/25-toto.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/25-toto.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/25-toto.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/26-dddd.php</loc>
+    <lastmod>2015-01-06T12:57:54+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/26-dddd.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/26-dddd.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/26-dddd.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/26-dddd.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/27-test.php</loc>
+    <lastmod>2015-01-06T12:57:54+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/27-test.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/27-test.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/27-test.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/27-test.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/28-test2.php</loc>
+    <lastmod>2015-01-06T12:57:54+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/28-test2.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/28-test2.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/28-test2.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/28-test2.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/29-dddddddd.php</loc>
+    <lastmod>2015-01-06T12:57:54+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/29-dddddddd.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/29-dddddddd.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/29-dddddddd.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/29-dddddddd.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/9-collants-anthracite-fleurs-roses.php</loc>
+    <lastmod>2015-01-06T12:57:54+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/9-collants-anthracite-fleurs-roses.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/9-collants-anthracite-fleurs-roses.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/9-collants-anthracite-fleurs-roses.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/9-collants-anthracite-fleurs-roses.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/collants_anthracite_fleurs_roses.php</loc>
+    <lastmod>2014-02-28T09:25:44+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/collants_anthracite_fleurs_roses.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/collants_anthracite_fleurs_roses.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/collants_anthracite_fleurs_roses.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/collants_anthracite_fleurs_roses.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/dddss.php</loc>
+    <lastmod>2014-02-03T13:58:44+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/dddss.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/dddss.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/dddss.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/dddss.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/ddisuydiuyds.php</loc>
+    <lastmod>2014-02-03T11:41:28+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/ddisuydiuyds.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/ddisuydiuyds.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/ddisuydiuyds.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/ddisuydiuyds.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/epoiuepoiepoie.php</loc>
+    <lastmod>2014-01-30T15:46:11+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/epoiuepoiepoie.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/epoiuepoiepoie.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/epoiuepoiepoie.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/epoiuepoiepoie.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/gilet_tao_gris.php</loc>
+    <lastmod>2014-02-28T09:25:44+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/gilet_tao_gris.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/gilet_tao_gris.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/gilet_tao_gris.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/gilet_tao_gris.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/index.php</loc>
+    <lastmod>2014-04-29T09:26:08+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/index.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/index.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/index.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/index.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/leggings_ray___gris___noir.php</loc>
+    <lastmod>2014-02-28T09:25:44+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/leggings_ray___gris___noir.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/leggings_ray___gris___noir.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/leggings_ray___gris___noir.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/leggings_ray___gris___noir.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/lot_2_bodys_rose___rose____pois.php</loc>
+    <lastmod>2014-02-28T09:25:44+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/lot_2_bodys_rose___rose____pois.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/lot_2_bodys_rose___rose____pois.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/lot_2_bodys_rose___rose____pois.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/lot_2_bodys_rose___rose____pois.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/lot_2_sous_pull_col_roul___rose_mauve.php</loc>
+    <lastmod>2014-02-28T09:25:44+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/lot_2_sous_pull_col_roul___rose_mauve.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/lot_2_sous_pull_col_roul___rose_mauve.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/lot_2_sous_pull_col_roul___rose_mauve.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/lot_2_sous_pull_col_roul___rose_mauve.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/pantalon_bout_chou_fleuri.php</loc>
+    <lastmod>2014-02-28T09:25:44+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/pantalon_bout_chou_fleuri.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/pantalon_bout_chou_fleuri.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/pantalon_bout_chou_fleuri.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/pantalon_bout_chou_fleuri.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/poopoopo.php</loc>
+    <lastmod>2014-01-30T11:49:00+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/poopoopo.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/poopoopo.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/poopoopo.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/poopoopo.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/pull_velours_rose.php</loc>
+    <lastmod>2014-02-28T09:25:44+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/pull_velours_rose.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/pull_velours_rose.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/pull_velours_rose.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/pull_velours_rose.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/pyjama_velours_rose.php</loc>
+    <lastmod>2014-02-28T09:25:44+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/pyjama_velours_rose.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/pyjama_velours_rose.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/pyjama_velours_rose.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/pyjama_velours_rose.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/pyjama_velours_rose_p__che_et_orange.php</loc>
+    <lastmod>2014-02-28T09:25:44+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/pyjama_velours_rose_p__che_et_orange.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/pyjama_velours_rose_p__che_et_orange.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/pyjama_velours_rose_p__che_et_orange.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/pyjama_velours_rose_p__che_et_orange.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/pyjama_velours_sucre_d_orge_rose_pale.php</loc>
+    <lastmod>2014-02-28T09:25:44+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/pyjama_velours_sucre_d_orge_rose_pale.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/pyjama_velours_sucre_d_orge_rose_pale.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/pyjama_velours_sucre_d_orge_rose_pale.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/pyjama_velours_sucre_d_orge_rose_pale.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/robe_tao_kaki____fleurs.php</loc>
+    <lastmod>2014-02-28T09:25:44+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/robe_tao_kaki____fleurs.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/robe_tao_kaki____fleurs.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/robe_tao_kaki____fleurs.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/robe_tao_kaki____fleurs.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/short_blanc_obaibi.php</loc>
+    <lastmod>2014-02-28T09:25:44+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/short_blanc_obaibi.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/short_blanc_obaibi.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/short_blanc_obaibi.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/short_blanc_obaibi.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/siuysiuydisuydiuysiduyisuydu.php</loc>
+    <lastmod>2014-01-30T14:34:09+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/siuysiuydisuydiuysiduyisuydu.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/siuysiuydisuydiuysiduyisuydu.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/siuysiuydisuydiuysiduyisuydu.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/siuysiuydisuydiuysiduyisuydu.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/t_shirt_ml_imprim___coeurs.php</loc>
+    <lastmod>2014-02-28T09:25:44+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/t_shirt_ml_imprim___coeurs.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/t_shirt_ml_imprim___coeurs.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/t_shirt_ml_imprim___coeurs.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/t_shirt_ml_imprim___coeurs.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/t_shirt_ml_rose_pale_disney.php</loc>
+    <lastmod>2014-02-28T09:25:44+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/t_shirt_ml_rose_pale_disney.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/t_shirt_ml_rose_pale_disney.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/t_shirt_ml_rose_pale_disney.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/t_shirt_ml_rose_pale_disney.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/t_shirt_ml_rose_vif_disney.php</loc>
+    <lastmod>2014-02-28T09:25:44+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/t_shirt_ml_rose_vif_disney.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/t_shirt_ml_rose_vif_disney.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/t_shirt_ml_rose_vif_disney.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/t_shirt_ml_rose_vif_disney.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/test_3.php</loc>
+    <lastmod>2014-01-30T15:39:06+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/test_3.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/test_3.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/test_3.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/test_3.php?lang=es" />
+</url>
+<url>
+    <loc>http://localhost/store_perso/item/uyytduud.php</loc>
+    <lastmod>2014-01-30T17:59:09+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost/store_perso/item/uyytduud.php?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/store_perso/item/uyytduud.php?lang=en" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost/store_perso/item/uyytduud.php?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost/store_perso/item/uyytduud.php?lang=es" />
+</url>
+</urlset>
