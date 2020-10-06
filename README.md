@@ -1,2 +1,2 @@
 # store
-Store web application developed in PHP
+Store is complete CMS / e-commerce tool application developed in PHP
